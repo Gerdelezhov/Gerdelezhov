@@ -1,6 +1,6 @@
-### Hi there 👋
+<div align="center">
+<h3>My stats:</h3>
 
-<p align="center">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gerdelezhov&layout=compact" />
-</p>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gerdelezhov&layout=compact&theme=github_dark" />
+</div>
 
