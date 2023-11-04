@@ -30,7 +30,7 @@
 * **Operating Systems / Операционные системы:** Linux
 * **Version Control / Системы контроля версий:** Git GitLab
 * **Scripting / Скриптинг:** Bash-scripts
-* **Микроконтроллеры**: ESP32 ESP8266 Arduino(Nano/UNO)
+* **Microcontrollers / Микроконтроллеры**: ESP32 ESP8266 Arduino(Nano/UNO)
     
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
