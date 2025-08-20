@@ -2,10 +2,10 @@
 
 ### Education / Образование
 
-* 📚 Fourth-year student of SibSUTIS (Siberian State University of Telecommunications and Informatics) in Novosibirsk.  
-  Неоконченное высшее 2021-2025 (4 курс) Сибирский государственный университет телекоммуникаций и информатики.
+* 📚 Informatics and computer engineering Bachelor SibSUTIS (Siberian State University of Telecommunications and Informatics) in Novosibirsk.  
+  Сибирский государственный университет телекоммуникаций и информатики. Неоконченное высшее 2021-2025 (4 курс)
 
-  **Specialization**: Bachelor of Computer Science (Software of computer equipment and automated systems).  
+  **Specialization**: Bachelor of Informatics and computer engineering.  
   09.03.01 Информатика и вычислительная техника. Профиль - "Программное обеспечение средств вычислительной техники и автоматизированных систем".
 
 ### Skills / Навыки
@@ -24,7 +24,7 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 #### All skills / Все навыки:
-* **Programming Languages / Языки программирования:** C, C++, C#, Python
+* **Programming Languages / Языки программирования:** C, C++, Python, Kotiln, C#
 * **Web Development / Веб-разработка:** HTML, CSS, JavaScript
 * **Databases / Базы данных:** MySQL PostgreSQL 
 * **Operating Systems / Операционные системы:** Linux
